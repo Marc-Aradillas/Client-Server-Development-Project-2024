@@ -23,6 +23,13 @@ This repository contains the final dashboard code and the README file from Proje
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project Overview
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/49cf0ef8-7935-47fd-b4b7-a824a19ac70c" alt="Grazioso Salvare Logo">
+</div>
+
+
+
 This project demonstrates the development of a MongoDB-connected dashboard for the Grazioso Salvare rescue animal organization, leveraging data filtering and visualization tools for database interactions. The application is built using Dash, Plotly, and MongoDB, and allows the client to dynamically filter animals based on different rescue categories (Water Rescue, Mountain/Wilderness Rescue, Disaster/Individual Tracking), as well as visualize animal breeds through interactive charts and maps.
 
 ## Project Functionality
