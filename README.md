@@ -1,4 +1,4 @@
-# Project Two: Dashboard and CRUD Module
+# Dashboard and CRUD Module Project
 
 ## Reflection
 
